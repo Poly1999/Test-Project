@@ -1,17 +1,11 @@
-*This file contains the styles for the landing page. It includes styles for layout, typography, buttons, and animations, ensuring a visually appealing design.*
-
-* CSS Reset and Box Sizing */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
   overflow-x: hidden;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
